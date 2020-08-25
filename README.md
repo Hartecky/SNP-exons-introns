@@ -1,9 +1,7 @@
 # SNP-exons-introns
-Research of SNP frequency in initial exons compared to the rest of exons presents in a gene.
+Research of SNP frequency in initial exons compared to the rest of exons presents in a gene. Examined on *Arabidopsis thaliana* genome, divided by each chromosome. 
 
-Examined on *Arabidopsis thaliana* genome divided for each chromosome. 
-
-Technologies: 
+## Technologies: 
 - R
 - Bash
 - Awk
