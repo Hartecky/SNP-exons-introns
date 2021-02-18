@@ -8,7 +8,7 @@ Research of SNP frequency in initial exons compared to the rest of exons present
 
 ## Project Description: 
 
-A Single Nucleotide Polymorphism (SNP) polymorphism is a mutation of genetic material that involves the exchange of one nucleotide for another nucleotide. The presence of SNP may cause a change in the sequence of the encoded protein, or change the expression of genes, which in turn may result in a change of the phenotype. 
+A Single Nucleotide Polymorphism (SNP) is a mutation of genetic material that involves the exchange of one nucleotide for another nucleotide. The presence of SNP may cause a change in the sequence of the encoded protein, or change the expression of genes, which in turn may result in a change of the phenotype. 
 
 
 All known polymorphisms in Arabidopsis thaliana were downloaded from the EnsemblPlants database (in the VCF format file). Additionally, annotations containing their identificators and coordinates as well as exon coordinates were downloaded (in the GFF format file). 
