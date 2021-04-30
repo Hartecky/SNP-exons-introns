@@ -146,3 +146,4 @@ awk 'BEGIN {print "SNPs"} !/E|S/ {count++; next} /S/ {count=0; next} /E/ {print 
 
 # MERGING DATA INTO ONE TABLE
 paste -d ' ' counted_exons.txt counted_exons_snp.txt chrom*_len.txt >> chrom1_exonsresults.txt
+
